@@ -1,0 +1,10 @@
+{
+  "app": "customer",
+  "channel": "internal",
+  "version": "2026.10.14-2352",
+  "url": "bundles/2026.10.14-2352.zip",
+  "sha256": "ed271a97660d26cbafd2b8cbfd92d0d19e5f96ebef7bbaabbb9373890c340f99",
+  "minNative": "1.0",
+  "publishedAt": "2026-10-15T06:53:00.458Z",
+  "notes": "Flat-rate plans and Shine Plus (demo)"
+}
