@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.15-0055",
-  "url": "bundles/2026.10.15-0055.zip",
-  "sha256": "b6bb65431d794890349ddca68929ce268469fdb211fd649c428b32e80416a90b",
+  "version": "2026.10.15-0110",
+  "url": "bundles/2026.10.15-0110.zip",
+  "sha256": "89fd539fff6402334835105997a6aba585fb43474c91b78cfc34ca162b73bf7b",
   "minNative": "1.0",
-  "publishedAt": "2026-10-15T07:55:29.151Z",
-  "notes": "Start times, levels on, sample photos core"
+  "publishedAt": "2026-10-15T08:10:37.984Z",
+  "notes": "Tips, Shine Plus homes, kit, thank-you, privacy"
 }
