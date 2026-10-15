@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.15-0100",
-  "url": "bundles/2026.10.15-0100.zip",
-  "sha256": "b842c69b562cc55391ce153f8fa7c441801b687dcb23cfebf56f2d16daac908c",
+  "version": "2026.10.15-0111",
+  "url": "bundles/2026.10.15-0111.zip",
+  "sha256": "bbfbfe1bc783ff189e0ff5841c0f5296cf3034989ea0d62f8b32c42941d400dc",
   "minNative": "1.0",
-  "publishedAt": "2026-10-15T08:00:58.802Z",
-  "notes": "Plans on core, start times, Airbnb/organizing/office booking"
+  "publishedAt": "2026-10-15T08:11:09.199Z",
+  "notes": "Guaranteed tip, Shine Plus membership"
 }
