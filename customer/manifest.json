@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.15-0111",
-  "url": "bundles/2026.10.15-0111.zip",
-  "sha256": "bbfbfe1bc783ff189e0ff5841c0f5296cf3034989ea0d62f8b32c42941d400dc",
+  "version": "2026.10.15-0747",
+  "url": "bundles/2026.10.15-0747.zip",
+  "sha256": "bf6f17e8ca1603fe9ff82f7c4bd85ffb8fcacb5f34f14865666b48003b628241",
   "minNative": "1.0",
-  "publishedAt": "2026-10-15T08:11:09.199Z",
-  "notes": "Guaranteed tip, Shine Plus membership"
+  "publishedAt": "2026-10-15T14:47:50.256Z",
+  "notes": "Sample photos and portraits"
 }
