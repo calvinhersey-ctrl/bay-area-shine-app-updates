@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.15-0751",
-  "url": "bundles/2026.10.15-0751.zip",
-  "sha256": "f9067d8ad80d3514c59d338c24983ef39e892bf437f6ed1e4681e32dcbfbc782",
+  "version": "2026.10.15-0802",
+  "url": "bundles/2026.10.15-0802.zip",
+  "sha256": "a64c79ae55358a4f38d3b078735be6f50bd7a9d0a3dd9c801f34204f11d3a070",
   "minNative": "1.0",
-  "publishedAt": "2026-10-15T14:51:09.628Z",
-  "notes": "Sample photos and portraits"
+  "publishedAt": "2026-10-15T15:02:38.836Z",
+  "notes": "Guaranteed tip on core"
 }
