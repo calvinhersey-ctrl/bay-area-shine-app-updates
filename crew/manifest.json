@@ -1,0 +1,10 @@
+{
+  "app": "crew",
+  "channel": "internal",
+  "version": "2026.10.15-0055",
+  "url": "bundles/2026.10.15-0055.zip",
+  "sha256": "b6bb65431d794890349ddca68929ce268469fdb211fd649c428b32e80416a90b",
+  "minNative": "1.0",
+  "publishedAt": "2026-10-15T07:55:29.151Z",
+  "notes": "Start times, levels on, sample photos core"
+}
