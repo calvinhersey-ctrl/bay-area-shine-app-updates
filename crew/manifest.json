@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.15-0742",
-  "url": "bundles/2026.10.15-0742.zip",
-  "sha256": "54acb197f9bb11ea95cb43d2deb95fd13c4a241faa430d773adefc639a797e78",
+  "version": "2026.10.15-0751",
+  "url": "bundles/2026.10.15-0751.zip",
+  "sha256": "f9067d8ad80d3514c59d338c24983ef39e892bf437f6ed1e4681e32dcbfbc782",
   "minNative": "1.0",
-  "publishedAt": "2026-10-15T14:42:33.971Z",
-  "notes": "Version line in Me"
+  "publishedAt": "2026-10-15T14:51:09.628Z",
+  "notes": "Sample photos and portraits"
 }
