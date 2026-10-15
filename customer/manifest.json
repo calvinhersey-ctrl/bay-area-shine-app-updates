@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.15-0802",
-  "url": "bundles/2026.10.15-0802.zip",
-  "sha256": "2d7e90cd63e3f2645189dc0c7e00fe2a2bda8c0ef5b31ca19a8d2f4d8134e736",
+  "version": "2026.10.15-0808",
+  "url": "bundles/2026.10.15-0808.zip",
+  "sha256": "453678d10b08ecf27ceec468cebd542cf016ebafce13827d2e6df82c039bb732",
   "minNative": "1.0",
-  "publishedAt": "2026-10-15T15:02:35.492Z",
-  "notes": "Guaranteed tip on core"
+  "publishedAt": "2026-10-15T15:08:46.608Z",
+  "notes": "Ratings step, tip shares, audit fixes"
 }
