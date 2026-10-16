@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.15-2353",
-  "url": "bundles/2026.10.15-2353.zip",
-  "sha256": "b3cad8d100e8afbdc3d41569d57df17eff2f789f966203cb6822e7ce0f1eb6e8",
+  "version": "2026.10.16-0726",
+  "url": "bundles/2026.10.16-0726.zip",
+  "sha256": "e997dadf586f9f36521fee864508225a4bedaecc99bb067c8ffcbad114dfa002",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T06:53:32.382Z",
-  "notes": "Packages (3/6 months), change plan + un-pause, block and report, clearer Shine Report photos, tipped jobs in the demo"
+  "publishedAt": "2026-10-16T14:26:15.879Z",
+  "notes": "Customer: clean progress card, reschedule review, notification settings, header spacing fix"
 }
