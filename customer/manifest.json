@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-0907",
-  "url": "bundles/2026.10.16-0907.zip",
-  "sha256": "cba46ef7ae8a287a751355df5fa21b16873edb6b4ff4dc5d9ae020e59075ad9a",
+  "version": "2026.10.16-0908",
+  "url": "bundles/2026.10.16-0908.zip",
+  "sha256": "9cd5b43c166fe8e4ac5bf4424c7369be426f6e44f9cf4709b41f4f89b9330150",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:07:16.415Z",
-  "notes": "Codex: shorter booking with price always visible; tested Screens, Crew and Back end lanes"
+  "publishedAt": "2026-10-16T16:08:54.022Z",
+  "notes": "Codex: persistent clean status across customer tabs"
 }
