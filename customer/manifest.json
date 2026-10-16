@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.15-2339",
-  "url": "bundles/2026.10.15-2339.zip",
-  "sha256": "8fa43d9a556d013baa2448bf3521ce53a57ad91fa8b3699784f14fbf987341a8",
+  "version": "2026.10.15-2353",
+  "url": "bundles/2026.10.15-2353.zip",
+  "sha256": "b3cad8d100e8afbdc3d41569d57df17eff2f789f966203cb6822e7ce0f1eb6e8",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T06:39:53.143Z",
-  "notes": "Codex: booking and navigation polish, reliable customer chat"
+  "publishedAt": "2026-10-16T06:53:32.382Z",
+  "notes": "Packages (3/6 months), change plan + un-pause, block and report, clearer Shine Report photos, tipped jobs in the demo"
 }
