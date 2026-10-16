@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1038",
-  "url": "bundles/2026.10.16-1038.zip",
-  "sha256": "a5d4f36141e6cd8f5e9d0058db82393cfe2cc53c5731d582b855b7cb5d749a9e",
+  "version": "2026.10.16-1043",
+  "url": "bundles/2026.10.16-1043.zip",
+  "sha256": "ff84e2923f5bfa46d51227680bf675d08f1e138d6b8831c0153c8681cbd79ca2",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:38:29.099Z",
-  "notes": "Codex: expiring entry edits and parking save recovery"
+  "publishedAt": "2026-10-16T17:43:47.997Z",
+  "notes": "Codex: cleaner report drafts, deliberate blocks and unblock recovery"
 }
