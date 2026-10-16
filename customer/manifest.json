@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1006",
-  "url": "bundles/2026.10.16-1006.zip",
-  "sha256": "79c546bb8e529b5ee9e083f4895624be0abbef17f562a49b49a11d34694461b5",
+  "version": "2026.10.16-1009",
+  "url": "bundles/2026.10.16-1009.zip",
+  "sha256": "24a029aadc0d0e19653065a4818595851cefdcd99f5dad1113909c7d44122220",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:06:27.890Z",
-  "notes": "Codex: safer booking, payment consent and failed time recovery"
+  "publishedAt": "2026-10-16T17:10:02.811Z",
+  "notes": "Codex: tips and balances wait for saved amounts; booking changes never replay after reconnect"
 }
