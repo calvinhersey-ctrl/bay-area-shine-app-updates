@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1219",
-  "url": "bundles/2026.10.16-1219.zip",
-  "sha256": "842a2c04c8b0f186071628343c7e14e0f98c93e95a3131edffdc00444ce1d632",
+  "version": "2026.10.16-1331",
+  "url": "bundles/2026.10.16-1331.zip",
+  "sha256": "ef1177940fff41c6ba1213d16ee1ff4a082ab36533e2f0799a8236d02ffff07a",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T19:19:43.838Z",
-  "notes": "Codex: checked entry recovery and retained unsafe-home alerts"
+  "publishedAt": "2026-10-16T20:31:54.668Z",
+  "notes": "Codex: checked crew privacy, checklist and safety recovery"
 }
