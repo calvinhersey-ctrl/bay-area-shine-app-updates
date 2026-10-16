@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-0920",
-  "url": "bundles/2026.10.16-0920.zip",
-  "sha256": "0fac995228f1e1275889d9b50df9371757e405b96793d52e7873d6dc4aec551d",
+  "version": "2026.10.16-0928",
+  "url": "bundles/2026.10.16-0928.zip",
+  "sha256": "be8fc436e7655104b2f0473e017e84c393041bd9cec187256991bfbcb5a9f407",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:20:10.899Z",
-  "notes": "Codex: shared dark mode, loading shimmer and gentle transitions"
+  "publishedAt": "2026-10-16T16:28:05.045Z",
+  "notes": "Codex: shorter booking, persistent status, cleaner trust, dark mode and sample arrival map"
 }
