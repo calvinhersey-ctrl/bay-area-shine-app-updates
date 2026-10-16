@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1129",
-  "url": "bundles/2026.10.16-1129.zip",
-  "sha256": "edfb4b7314c98d3dc214f45b18013df0dd552d44458150a36abf0ae3f9b99189",
+  "version": "2026.10.16-1132",
+  "url": "bundles/2026.10.16-1132.zip",
+  "sha256": "4add8c7ef3720769a8552893d334c42f25648bb9ade0d37096e2c15387d22631",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:29:17.614Z",
-  "notes": "Codex: sign-in request and confirmed-code recovery"
+  "publishedAt": "2026-10-16T18:32:35.883Z",
+  "notes": "Codex: isolated conversation drafts and chat read recovery"
 }
