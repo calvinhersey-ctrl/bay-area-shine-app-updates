@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1143",
-  "url": "bundles/2026.10.16-1143.zip",
-  "sha256": "fb282ea051689ae560c1d1259117e0cc46bc98ee135bdd318e42a1a1397d8041",
+  "version": "2026.10.16-1215",
+  "url": "bundles/2026.10.16-1215.zip",
+  "sha256": "6cbded8de5d0d77254be275ff80192d580310f50dcf6217a11062715c97744a1",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:43:14.267Z",
-  "notes": "Codex: latest checked Crew arrival, code concealment and customer recovery"
+  "publishedAt": "2026-10-16T19:15:52.911Z",
+  "notes": "Codex: checked own entry times and durable door photos"
 }
