@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-0726",
-  "url": "bundles/2026.10.16-0726.zip",
-  "sha256": "2a136b23562b69eb2a2f18c47f6ea98fc14c39c075802b01b1abdcda2dcf012f",
+  "version": "2026.10.16-0907",
+  "url": "bundles/2026.10.16-0907.zip",
+  "sha256": "c61b7a1805992a1f1bf749835b4702ba4aefd7e748255d3f6d1a7d2bc5ade9e4",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T14:26:19.171Z",
-  "notes": "Crew: one Earnings page, Lyft-style job steps that work offline, trip sharing with consent, job list with quick Apply, Today brief, days-off review"
+  "publishedAt": "2026-10-16T16:07:35.283Z",
+  "notes": "Codex: tested Crew job flow and durable offline saves"
 }
