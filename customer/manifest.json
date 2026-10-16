@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-0928",
-  "url": "bundles/2026.10.16-0928.zip",
-  "sha256": "be8fc436e7655104b2f0473e017e84c393041bd9cec187256991bfbcb5a9f407",
+  "version": "2026.10.16-1006",
+  "url": "bundles/2026.10.16-1006.zip",
+  "sha256": "79c546bb8e529b5ee9e083f4895624be0abbef17f562a49b49a11d34694461b5",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:28:05.045Z",
-  "notes": "Codex: shorter booking, persistent status, cleaner trust, dark mode and sample arrival map"
+  "publishedAt": "2026-10-16T17:06:27.890Z",
+  "notes": "Codex: safer booking, payment consent and failed time recovery"
 }
