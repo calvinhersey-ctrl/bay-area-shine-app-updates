@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-0913",
-  "url": "bundles/2026.10.16-0913.zip",
-  "sha256": "642a6a05094828f6d7a5b0cb21bc40ec6b9d72fc3d1b0552ef384d68a4fd697e",
+  "version": "2026.10.16-0920",
+  "url": "bundles/2026.10.16-0920.zip",
+  "sha256": "0fac995228f1e1275889d9b50df9371757e405b96793d52e7873d6dc4aec551d",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:13:38.430Z",
-  "notes": "Codex: cleaner ratings and approved checks throughout the customer app"
+  "publishedAt": "2026-10-16T16:20:10.899Z",
+  "notes": "Codex: shared dark mode, loading shimmer and gentle transitions"
 }
