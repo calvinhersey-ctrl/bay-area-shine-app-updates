@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.15-0808",
-  "url": "bundles/2026.10.15-0808.zip",
-  "sha256": "453678d10b08ecf27ceec468cebd542cf016ebafce13827d2e6df82c039bb732",
+  "version": "2026.10.15-2339",
+  "url": "bundles/2026.10.15-2339.zip",
+  "sha256": "8fa43d9a556d013baa2448bf3521ce53a57ad91fa8b3699784f14fbf987341a8",
   "minNative": "1.0",
-  "publishedAt": "2026-10-15T15:08:46.608Z",
-  "notes": "Ratings step, tip shares, audit fixes"
+  "publishedAt": "2026-10-16T06:39:53.143Z",
+  "notes": "Codex: booking and navigation polish, reliable customer chat"
 }
