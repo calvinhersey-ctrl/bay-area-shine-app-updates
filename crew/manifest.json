@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1015",
-  "url": "bundles/2026.10.16-1015.zip",
-  "sha256": "56ac709962604a04cf22193fd5da407fc6e596ef1354b4fbdfcf3b9eb272e3d5",
+  "version": "2026.10.16-1038",
+  "url": "bundles/2026.10.16-1038.zip",
+  "sha256": "5732975bcda20c04f1e4321217792f6031422c1ff7ba2e9a1ab67cec1cc4e9e4",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:15:54.700Z",
-  "notes": "Codex: checked Crew alert settings and report/block recovery"
+  "publishedAt": "2026-10-16T17:38:49.260Z",
+  "notes": "Codex: checked Crew earnings times, complete exports and profile recovery"
 }
