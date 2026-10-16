@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1215",
-  "url": "bundles/2026.10.16-1215.zip",
-  "sha256": "18a0904885e018c7bac4cf24fd39fa23502eee17e6abbef78305f283d1653175",
+  "version": "2026.10.16-1217",
+  "url": "bundles/2026.10.16-1217.zip",
+  "sha256": "570044f512df7e53c7c97e0c4652e01bb8bd8359f487a1c81398b85225ce1da2",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T19:15:49.643Z",
-  "notes": "Codex: saved homes and accepted quotes recover safely"
+  "publishedAt": "2026-10-16T19:17:53.241Z",
+  "notes": "Codex: account read recovery and protected profile saves"
 }
