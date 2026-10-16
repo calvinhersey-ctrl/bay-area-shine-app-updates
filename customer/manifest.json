@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1107",
-  "url": "bundles/2026.10.16-1107.zip",
-  "sha256": "7705643d42e4d2f2de74c63c21de062dbb60630a12686e8f53e10b932415a6b4",
+  "version": "2026.10.16-1110",
+  "url": "bundles/2026.10.16-1110.zip",
+  "sha256": "0c70d3803c6139c2d445e6ee6caf520d82aa446605d5fe72aded8b2fc53ff19d",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:07:48.430Z",
-  "notes": "Codex: home-specific cleaner preferences and recovery"
+  "publishedAt": "2026-10-16T18:10:26.705Z",
+  "notes": "Codex: guarded home setup and secure entry-code handoff"
 }
