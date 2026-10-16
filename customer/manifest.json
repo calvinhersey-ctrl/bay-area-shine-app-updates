@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-0726",
-  "url": "bundles/2026.10.16-0726.zip",
-  "sha256": "e997dadf586f9f36521fee864508225a4bedaecc99bb067c8ffcbad114dfa002",
+  "version": "2026.10.16-0907",
+  "url": "bundles/2026.10.16-0907.zip",
+  "sha256": "cba46ef7ae8a287a751355df5fa21b16873edb6b4ff4dc5d9ae020e59075ad9a",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T14:26:15.879Z",
-  "notes": "Customer: clean progress card, reschedule review, notification settings, header spacing fix"
+  "publishedAt": "2026-10-16T16:07:16.415Z",
+  "notes": "Codex: shorter booking with price always visible; tested Screens, Crew and Back end lanes"
 }
