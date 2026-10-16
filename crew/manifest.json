@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1540",
-  "url": "bundles/2026.10.16-1540.zip",
-  "sha256": "241796d8ca8c414db5857a406a29221ff2ff8b65b8541a19c1ac82c24aac5373",
+  "version": "2026.10.16-1624",
+  "url": "bundles/2026.10.16-1624.zip",
+  "sha256": "36f5e7bbaaf6cbef1d4fffe4d063bd3f50f7854365a4be800c951305f479aaa9",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T22:40:46.378Z",
-  "notes": "Codex: Crew notification inbox and canonical five-year referral policy"
+  "publishedAt": "2026-10-16T23:24:54.630Z",
+  "notes": "Codex: canonical referral countdowns and current non-payment services"
 }
