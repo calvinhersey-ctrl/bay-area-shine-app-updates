@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1009",
-  "url": "bundles/2026.10.16-1009.zip",
-  "sha256": "24a029aadc0d0e19653065a4818595851cefdcd99f5dad1113909c7d44122220",
+  "version": "2026.10.16-1015",
+  "url": "bundles/2026.10.16-1015.zip",
+  "sha256": "dfed211da614e4b2377bbb27819c9e7395a3e1f1016a38b8f04f1f7833fd27a7",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:10:02.811Z",
-  "notes": "Codex: tips and balances wait for saved amounts; booking changes never replay after reconnect"
+  "publishedAt": "2026-10-16T17:15:33.391Z",
+  "notes": "Codex: current plan consent, reliable renewal prices and cancellation retries"
 }
