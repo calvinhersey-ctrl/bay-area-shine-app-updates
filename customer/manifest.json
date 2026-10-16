@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1116",
-  "url": "bundles/2026.10.16-1116.zip",
-  "sha256": "333d0a7e4da8d61ae49e0dd6c70ba055b3c0c9f38600b1bcf471930b91218af0",
+  "version": "2026.10.16-1119",
+  "url": "bundles/2026.10.16-1119.zip",
+  "sha256": "4f0d6206b98a658ba84ee89d713b2987bedb4bd45f6d5b699f2b381ffffec361",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:16:36.114Z",
-  "notes": "Codex: home setup, correct-property links, preparation and note recovery"
+  "publishedAt": "2026-10-16T18:19:21.341Z",
+  "notes": "Codex: home, setup, preparation and note recovery with current reply handling"
 }
