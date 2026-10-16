@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1217",
-  "url": "bundles/2026.10.16-1217.zip",
-  "sha256": "570044f512df7e53c7c97e0c4652e01bb8bd8359f487a1c81398b85225ce1da2",
+  "version": "2026.10.16-1219",
+  "url": "bundles/2026.10.16-1219.zip",
+  "sha256": "41ce163029cf43971584b8200a53a7887784ce43cfe75a3f54d040412ea29023",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T19:17:53.241Z",
-  "notes": "Codex: account read recovery and protected profile saves"
+  "publishedAt": "2026-10-16T19:19:40.209Z",
+  "notes": "Codex: saved homes, quote photos, profile and Message us recovery"
 }
