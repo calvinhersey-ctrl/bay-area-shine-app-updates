@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1143",
-  "url": "bundles/2026.10.16-1143.zip",
-  "sha256": "1a1433fa754ce45a6fa63a1da5c106313055ca13050caca6be0725540ec404c9",
+  "version": "2026.10.16-1215",
+  "url": "bundles/2026.10.16-1215.zip",
+  "sha256": "18a0904885e018c7bac4cf24fd39fa23502eee17e6abbef78305f283d1653175",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:43:03.481Z",
-  "notes": "Codex: sign-in recovery, isolated chats and preserved offline messages"
+  "publishedAt": "2026-10-16T19:15:49.643Z",
+  "notes": "Codex: saved homes and accepted quotes recover safely"
 }
