@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1331",
-  "url": "bundles/2026.10.16-1331.zip",
-  "sha256": "953705da4f51c91cf4ceb534718b2abeddcdbfda8973019f8807f0f9b48ca31e",
+  "version": "2026.10.16-1532",
+  "url": "bundles/2026.10.16-1532.zip",
+  "sha256": "f4bc564e17a8ee201165b1db9861d899761d4947c28e585256bf1400b98b7264",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T20:31:51.332Z",
-  "notes": "Codex: verified customer session foundation; internal demo retained"
+  "publishedAt": "2026-10-16T22:33:00.929Z",
+  "notes": "Codex: account privacy integration and verified customer runtime"
 }
