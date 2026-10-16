@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1219",
-  "url": "bundles/2026.10.16-1219.zip",
-  "sha256": "41ce163029cf43971584b8200a53a7887784ce43cfe75a3f54d040412ea29023",
+  "version": "2026.10.16-1331",
+  "url": "bundles/2026.10.16-1331.zip",
+  "sha256": "953705da4f51c91cf4ceb534718b2abeddcdbfda8973019f8807f0f9b48ca31e",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T19:19:40.209Z",
-  "notes": "Codex: saved homes, quote photos, profile and Message us recovery"
+  "publishedAt": "2026-10-16T20:31:51.332Z",
+  "notes": "Codex: verified customer session foundation; internal demo retained"
 }
