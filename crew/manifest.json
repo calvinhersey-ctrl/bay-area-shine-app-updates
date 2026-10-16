@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1051",
-  "url": "bundles/2026.10.16-1051.zip",
-  "sha256": "88cdc8ebc0e6d543aa2c573010a82019b2cda030f128834b76a556b7cc2f4129",
+  "version": "2026.10.16-1108",
+  "url": "bundles/2026.10.16-1108.zip",
+  "sha256": "29c651794063cd8c1db8473cfb196c08555274e57e3dfa7d8ab304ec3715b104",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:51:51.420Z",
-  "notes": "Codex: checked Crew chat/read recovery and shared disabled controls"
+  "publishedAt": "2026-10-16T18:08:03.913Z",
+  "notes": "Codex: guarded preferences and Crew chat delivery"
 }
