@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1019",
-  "url": "bundles/2026.10.16-1019.zip",
-  "sha256": "5a32ae7342328486b9fbb24502ba67e85a82f22321078332b4b381294ccd2dfc",
+  "version": "2026.10.16-1038",
+  "url": "bundles/2026.10.16-1038.zip",
+  "sha256": "a5d4f36141e6cd8f5e9d0058db82393cfe2cc53c5731d582b855b7cb5d749a9e",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:19:25.995Z",
-  "notes": "Codex: extras recovery, saved-price protection and current booking/plan consent"
+  "publishedAt": "2026-10-16T17:38:29.099Z",
+  "notes": "Codex: expiring entry edits and parking save recovery"
 }
