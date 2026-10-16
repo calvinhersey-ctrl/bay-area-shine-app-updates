@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1015",
-  "url": "bundles/2026.10.16-1015.zip",
-  "sha256": "dfed211da614e4b2377bbb27819c9e7395a3e1f1016a38b8f04f1f7833fd27a7",
+  "version": "2026.10.16-1019",
+  "url": "bundles/2026.10.16-1019.zip",
+  "sha256": "5a32ae7342328486b9fbb24502ba67e85a82f22321078332b4b381294ccd2dfc",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:15:33.391Z",
-  "notes": "Codex: current plan consent, reliable renewal prices and cancellation retries"
+  "publishedAt": "2026-10-16T17:19:25.995Z",
+  "notes": "Codex: extras recovery, saved-price protection and current booking/plan consent"
 }
