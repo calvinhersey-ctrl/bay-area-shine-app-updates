@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1119",
-  "url": "bundles/2026.10.16-1119.zip",
-  "sha256": "4f0d6206b98a658ba84ee89d713b2987bedb4bd45f6d5b699f2b381ffffec361",
+  "version": "2026.10.16-1129",
+  "url": "bundles/2026.10.16-1129.zip",
+  "sha256": "edfb4b7314c98d3dc214f45b18013df0dd552d44458150a36abf0ae3f9b99189",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:19:21.341Z",
-  "notes": "Codex: home, setup, preparation and note recovery with current reply handling"
+  "publishedAt": "2026-10-16T18:29:17.614Z",
+  "notes": "Codex: sign-in request and confirmed-code recovery"
 }
