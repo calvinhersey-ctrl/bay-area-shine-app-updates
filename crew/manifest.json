@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-0907",
-  "url": "bundles/2026.10.16-0907.zip",
-  "sha256": "c61b7a1805992a1f1bf749835b4702ba4aefd7e748255d3f6d1a7d2bc5ade9e4",
+  "version": "2026.10.16-0921",
+  "url": "bundles/2026.10.16-0921.zip",
+  "sha256": "57154e261b563dc9b0b8343d637db250657bf1472ac10413cb723356ed12b9c6",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:07:35.283Z",
-  "notes": "Codex: tested Crew job flow and durable offline saves"
+  "publishedAt": "2026-10-16T16:21:07.361Z",
+  "notes": "Codex: shared dark mode and polish, with tested Crew fixes"
 }
