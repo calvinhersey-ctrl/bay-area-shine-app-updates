@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1132",
-  "url": "bundles/2026.10.16-1132.zip",
-  "sha256": "4add8c7ef3720769a8552893d334c42f25648bb9ade0d37096e2c15387d22631",
+  "version": "2026.10.16-1136",
+  "url": "bundles/2026.10.16-1136.zip",
+  "sha256": "c06b6ba0f4621323e7c4d15efbc13fe0bdb58eeb0866fbdab284079fd226c006",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:32:35.883Z",
-  "notes": "Codex: isolated conversation drafts and chat read recovery"
+  "publishedAt": "2026-10-16T18:36:43.805Z",
+  "notes": "Codex: preserve saved messages and scope app-open delivery"
 }
