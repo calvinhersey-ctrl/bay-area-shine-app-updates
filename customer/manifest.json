@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-0908",
-  "url": "bundles/2026.10.16-0908.zip",
-  "sha256": "9cd5b43c166fe8e4ac5bf4424c7369be426f6e44f9cf4709b41f4f89b9330150",
+  "version": "2026.10.16-0913",
+  "url": "bundles/2026.10.16-0913.zip",
+  "sha256": "642a6a05094828f6d7a5b0cb21bc40ec6b9d72fc3d1b0552ef384d68a4fd697e",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:08:54.022Z",
-  "notes": "Codex: persistent clean status across customer tabs"
+  "publishedAt": "2026-10-16T16:13:38.430Z",
+  "notes": "Codex: cleaner ratings and approved checks throughout the customer app"
 }
