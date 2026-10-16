@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-0921",
-  "url": "bundles/2026.10.16-0921.zip",
-  "sha256": "57154e261b563dc9b0b8343d637db250657bf1472ac10413cb723356ed12b9c6",
+  "version": "2026.10.16-0929",
+  "url": "bundles/2026.10.16-0929.zip",
+  "sha256": "0ab1d4e85da051f6e4e8463fd535dcc23c4a68942de59af44a0199c7bea5587f",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:21:07.361Z",
-  "notes": "Codex: shared dark mode and polish, with tested Crew fixes"
+  "publishedAt": "2026-10-16T16:29:49.223Z",
+  "notes": "Codex: integrated checked Crew flow and shared dark-mode polish"
 }
