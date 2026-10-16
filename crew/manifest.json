@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1624",
-  "url": "bundles/2026.10.16-1624.zip",
-  "sha256": "36f5e7bbaaf6cbef1d4fffe4d063bd3f50f7854365a4be800c951305f479aaa9",
+  "version": "2026.10.16-1651",
+  "url": "bundles/2026.10.16-1651.zip",
+  "sha256": "82925bb8d6f391c57b43beb8daef249e265a0a40dc65226e496b251ab37192d2",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T23:24:54.630Z",
-  "notes": "Codex: canonical referral countdowns and current non-payment services"
+  "publishedAt": "2026-10-16T23:51:21.629Z",
+  "notes": "Codex: authorized notification destinations, own reports, and checked referral integration"
 }
