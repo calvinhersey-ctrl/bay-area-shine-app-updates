@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1331",
-  "url": "bundles/2026.10.16-1331.zip",
-  "sha256": "ef1177940fff41c6ba1213d16ee1ff4a082ab36533e2f0799a8236d02ffff07a",
+  "version": "2026.10.16-1533",
+  "url": "bundles/2026.10.16-1533.zip",
+  "sha256": "e23f5eee9e9003f01e2d96039ebe7a3b813b5b2d4fb78308c0c51dc0e4ba6fbf",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T20:31:54.668Z",
-  "notes": "Codex: checked crew privacy, checklist and safety recovery"
+  "publishedAt": "2026-10-16T22:33:04.567Z",
+  "notes": "Codex: privacy requests and five-year referral screens"
 }
