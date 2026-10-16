@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1624",
-  "url": "bundles/2026.10.16-1624.zip",
-  "sha256": "294220da5f20543646666451c136ecb798fb5fc5c0a38ab63a6e489fc0c80a92",
+  "version": "2026.10.16-1651",
+  "url": "bundles/2026.10.16-1651.zip",
+  "sha256": "7a81c5bec0ec9574a2456cb765b0dd505d4494c8accb6fe2e93b323693033f66",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T23:24:50.902Z",
-  "notes": "Codex: notification choice sync and correct reschedule availability"
+  "publishedAt": "2026-10-16T23:51:17.928Z",
+  "notes": "Codex: safe quote retries, truthful used offers, and checked customer runtime integration"
 }
