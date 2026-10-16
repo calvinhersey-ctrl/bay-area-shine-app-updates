@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.15-2340",
-  "url": "bundles/2026.10.15-2340.zip",
-  "sha256": "3b51bfdf75257cc6791bf70399d64de77f8c22fe3bb1470a9d666518f6d97ef2",
+  "version": "2026.10.15-2353",
+  "url": "bundles/2026.10.15-2353.zip",
+  "sha256": "c2d8cd5368c4200b166cc22448b98cd87fe83618ac8718cb2398cf2039773801",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T06:40:09.564Z",
-  "notes": "Codex: weekly earnings, daily chart, pay and tip breakdowns, matching Me summary"
+  "publishedAt": "2026-10-16T06:53:35.708Z",
+  "notes": "New Earnings page (week chart, base/boost/tips, payday), block and report, tipped jobs on the board"
 }
