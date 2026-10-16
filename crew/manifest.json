@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1049",
-  "url": "bundles/2026.10.16-1049.zip",
-  "sha256": "a9991b1e45c3cf1e8626935d95ca0422473ee9460ad4f806303aadbd7404a26b",
+  "version": "2026.10.16-1051",
+  "url": "bundles/2026.10.16-1051.zip",
+  "sha256": "88cdc8ebc0e6d543aa2c573010a82019b2cda030f128834b76a556b7cc2f4129",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:49:35.383Z",
-  "notes": "Codex: shared disabled action rows with checked Crew exports and time recovery"
+  "publishedAt": "2026-10-16T17:51:51.420Z",
+  "notes": "Codex: checked Crew chat/read recovery and shared disabled controls"
 }
