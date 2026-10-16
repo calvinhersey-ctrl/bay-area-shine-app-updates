@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1048",
-  "url": "bundles/2026.10.16-1048.zip",
-  "sha256": "d84c386b8d5a7c7e2ca771734439a04a8b6fc352ed356caedc1f3da266ef3113",
+  "version": "2026.10.16-1051",
+  "url": "bundles/2026.10.16-1051.zip",
+  "sha256": "a05a7d1b7eeb90ae9efa602f9878d5c401b06535947de643ad81a5bdf7620f2c",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T17:49:03.937Z",
-  "notes": "Codex: current privacy confirmation, code expiry guards and disabled loading actions"
+  "publishedAt": "2026-10-16T17:51:25.851Z",
+  "notes": "Codex: entry expiry, privacy confirmation, report recovery and safe saved-card changes"
 }
