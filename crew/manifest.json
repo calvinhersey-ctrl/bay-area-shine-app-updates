@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1129",
-  "url": "bundles/2026.10.16-1129.zip",
-  "sha256": "e13fb436b707ced7deb2086d4f26ef32d0827e7603e56a93f4318f1c8674ccb8",
+  "version": "2026.10.16-1143",
+  "url": "bundles/2026.10.16-1143.zip",
+  "sha256": "fb282ea051689ae560c1d1259117e0cc46bc98ee135bdd318e42a1a1397d8041",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T18:29:27.990Z",
-  "notes": "Codex: checked Crew arrival estimates and sign-in recovery"
+  "publishedAt": "2026-10-16T18:43:14.267Z",
+  "notes": "Codex: latest checked Crew arrival, code concealment and customer recovery"
 }
