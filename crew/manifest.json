@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-0929",
-  "url": "bundles/2026.10.16-0929.zip",
-  "sha256": "0ab1d4e85da051f6e4e8463fd535dcc23c4a68942de59af44a0199c7bea5587f",
+  "version": "2026.10.16-0930",
+  "url": "bundles/2026.10.16-0930.zip",
+  "sha256": "5d668d968261aee10ad23edb835ad8847675007c1592703d37f8a4277c8f386c",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T16:29:49.223Z",
-  "notes": "Codex: integrated checked Crew flow and shared dark-mode polish"
+  "publishedAt": "2026-10-16T16:30:57.073Z",
+  "notes": "Codex: finished Crew dark maps and night controls with shared polish; checked integration"
 }
