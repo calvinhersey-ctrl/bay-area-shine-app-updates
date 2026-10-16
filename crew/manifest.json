@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1533",
-  "url": "bundles/2026.10.16-1533.zip",
-  "sha256": "e23f5eee9e9003f01e2d96039ebe7a3b813b5b2d4fb78308c0c51dc0e4ba6fbf",
+  "version": "2026.10.16-1540",
+  "url": "bundles/2026.10.16-1540.zip",
+  "sha256": "241796d8ca8c414db5857a406a29221ff2ff8b65b8541a19c1ac82c24aac5373",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T22:33:04.567Z",
-  "notes": "Codex: privacy requests and five-year referral screens"
+  "publishedAt": "2026-10-16T22:40:46.378Z",
+  "notes": "Codex: Crew notification inbox and canonical five-year referral policy"
 }
