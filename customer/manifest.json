@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1822",
-  "url": "bundles/2026.10.16-1822.zip",
-  "sha256": "3bfa92969dc0f75566974789683d2aca31c8963b57b78dd7174617d5b3128a83",
+  "version": "2026.10.16-1841",
+  "url": "bundles/2026.10.16-1841.zip",
+  "sha256": "aeb504f6968f92ddc7d3687949f6c265e10844425d192bb48f29080d1ed474a5",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T01:22:25.947Z",
-  "notes": "Codex: honest referral copying/sharing, durable private photos, real report viewing and host states"
+  "publishedAt": "2026-10-17T01:41:38.385Z",
+  "notes": "Codex: saved-location booking, remembered home details, confirmation moments and approved co-founder preview"
 }
