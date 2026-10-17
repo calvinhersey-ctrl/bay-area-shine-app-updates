@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1822",
-  "url": "bundles/2026.10.16-1822.zip",
-  "sha256": "ea20fb18b64cc1f9a9d75ae87426ed4468357f5736fc62ad719284155d127280",
+  "version": "2026.10.16-1841",
+  "url": "bundles/2026.10.16-1841.zip",
+  "sha256": "8653095218553bf0fd0a546389ffe8eeaa94603814c42045f05c612977ef2571",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T01:22:33.928Z",
-  "notes": "Codex: complete outbox sync verification with checked customer improvements"
+  "publishedAt": "2026-10-17T01:41:42.075Z",
+  "notes": "Codex: real Crew email sign-in, confirmed assignment and checkout moments, and checked sync recovery"
 }
