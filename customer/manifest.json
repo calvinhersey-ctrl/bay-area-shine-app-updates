@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1733",
-  "url": "bundles/2026.10.16-1733.zip",
-  "sha256": "a79e3fcf7e910351b8ec8ebc67125c4ffdb19cf06f497b7953740c1e2a600f21",
+  "version": "2026.10.16-1747",
+  "url": "bundles/2026.10.16-1747.zip",
+  "sha256": "1a9cc2150882269dd1d8ed06158cfabafe474f3cca9aab5b6846ad375f69fcfd",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T00:33:50.502Z",
-  "notes": "Codex: customer arrival-map freshness and team arrivals; durable private message retries"
+  "publishedAt": "2026-10-17T00:47:10.137Z",
+  "notes": "Codex: actual flag-report photos with durable private-message retries; combined offline replay and arrival map"
 }
