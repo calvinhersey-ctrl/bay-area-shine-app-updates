@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1747",
-  "url": "bundles/2026.10.16-1747.zip",
-  "sha256": "1a9cc2150882269dd1d8ed06158cfabafe474f3cca9aab5b6846ad375f69fcfd",
+  "version": "2026.10.16-1751",
+  "url": "bundles/2026.10.16-1751.zip",
+  "sha256": "2177304f514fba87604d50cded6ca2d55f3631892aba620934fc3f30af835c6e",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T00:47:10.137Z",
-  "notes": "Codex: actual flag-report photos with durable private-message retries; combined offline replay and arrival map"
+  "publishedAt": "2026-10-17T00:51:49.231Z",
+  "notes": "Codex: durable quote and flag photos in private Messages, safe arrival map and message retries"
 }
