@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1747",
-  "url": "bundles/2026.10.16-1747.zip",
-  "sha256": "30fa473e4f2feddabc3b1edae124709874e2538322e1563c71853f094b5bc8d9",
+  "version": "2026.10.16-1751",
+  "url": "bundles/2026.10.16-1751.zip",
+  "sha256": "af5ffa63d8e4988f39de3027b718155a14eed3f37e80f272ee6a7f72953e7ac3",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T00:47:14.138Z",
-  "notes": "Codex: checked atomic offline field replay and original message times; combined customer fixes"
+  "publishedAt": "2026-10-17T00:51:55.042Z",
+  "notes": "Codex: verified offline field and original-time message replay with combined customer improvements"
 }
