@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1651",
-  "url": "bundles/2026.10.16-1651.zip",
-  "sha256": "7a81c5bec0ec9574a2456cb765b0dd505d4494c8accb6fe2e93b323693033f66",
+  "version": "2026.10.16-1722",
+  "url": "bundles/2026.10.16-1722.zip",
+  "sha256": "4f0369a6b314219504a52fdfb500b366ac11ed86e197cab11c428faec8456b15",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T23:51:17.928Z",
-  "notes": "Codex: safe quote retries, truthful used offers, and checked customer runtime integration"
+  "publishedAt": "2026-10-17T00:22:57.359Z",
+  "notes": "Codex: durable customer message/photo saving and safe retry recovery"
 }
