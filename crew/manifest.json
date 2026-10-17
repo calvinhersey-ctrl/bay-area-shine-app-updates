@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1808",
-  "url": "bundles/2026.10.16-1808.zip",
-  "sha256": "f40a216aafa760be9e7a8e02dae702b46065d18a9dbfd203438974c6da649013",
+  "version": "2026.10.16-1822",
+  "url": "bundles/2026.10.16-1822.zip",
+  "sha256": "ea20fb18b64cc1f9a9d75ae87426ed4468357f5736fc62ad719284155d127280",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T01:08:19.002Z",
-  "notes": "Codex: checked combined customer reports and Crew offline replay demo"
+  "publishedAt": "2026-10-17T01:22:33.928Z",
+  "notes": "Codex: complete outbox sync verification with checked customer improvements"
 }
