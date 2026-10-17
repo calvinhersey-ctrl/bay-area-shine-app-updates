@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1722",
-  "url": "bundles/2026.10.16-1722.zip",
-  "sha256": "4f0369a6b314219504a52fdfb500b366ac11ed86e197cab11c428faec8456b15",
+  "version": "2026.10.16-1733",
+  "url": "bundles/2026.10.16-1733.zip",
+  "sha256": "a79e3fcf7e910351b8ec8ebc67125c4ffdb19cf06f497b7953740c1e2a600f21",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T00:22:57.359Z",
-  "notes": "Codex: durable customer message/photo saving and safe retry recovery"
+  "publishedAt": "2026-10-17T00:33:50.502Z",
+  "notes": "Codex: customer arrival-map freshness and team arrivals; durable private message retries"
 }
