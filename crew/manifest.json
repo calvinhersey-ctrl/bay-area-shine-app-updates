@@ -1,10 +1,10 @@
 {
   "app": "crew",
   "channel": "internal",
-  "version": "2026.10.16-1651",
-  "url": "bundles/2026.10.16-1651.zip",
-  "sha256": "82925bb8d6f391c57b43beb8daef249e265a0a40dc65226e496b251ab37192d2",
+  "version": "2026.10.16-1722",
+  "url": "bundles/2026.10.16-1722.zip",
+  "sha256": "c246a707c4deb6b8d8faf4505fd3f3137f9f3613469b92a86db795da1faddd67",
   "minNative": "1.0",
-  "publishedAt": "2026-10-16T23:51:21.629Z",
-  "notes": "Codex: authorized notification destinations, own reports, and checked referral integration"
+  "publishedAt": "2026-10-17T00:23:00.922Z",
+  "notes": "Codex: checked crew progress and foreground approach sharing"
 }
