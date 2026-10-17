@@ -1,10 +1,10 @@
 {
   "app": "customer",
   "channel": "internal",
-  "version": "2026.10.16-1808",
-  "url": "bundles/2026.10.16-1808.zip",
-  "sha256": "8c24221303407d2ee5ce4673176a780b28d5108af6008916794a82a2250836bc",
+  "version": "2026.10.16-1822",
+  "url": "bundles/2026.10.16-1822.zip",
+  "sha256": "3bfa92969dc0f75566974789683d2aca31c8963b57b78dd7174617d5b3128a83",
   "minNative": "1.0",
-  "publishedAt": "2026-10-17T01:08:15.175Z",
-  "notes": "Codex: actual private report photos, truthful host inventory/calendar states and paginated damage-summary PDFs"
+  "publishedAt": "2026-10-17T01:22:25.947Z",
+  "notes": "Codex: honest referral copying/sharing, durable private photos, real report viewing and host states"
 }
